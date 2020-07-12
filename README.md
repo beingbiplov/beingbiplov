@@ -1,5 +1,5 @@
 
-<img src='icons/biplov_header.png' />
+<img src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/biplov_header.png' alt='Biplov'/>
 
 ### Hi there 👋
 I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Django and JavaScript. Curious about a lot of other languages and tools.
