@@ -10,16 +10,16 @@ I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Djang
 <div align='center'>  
   <a href = "mailto: sharmabiplov@gmail.com">
     <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/mailicon.png' alt='email'/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a  href = 'https://biplovsharma.com.np/'>
    <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/interneticon.png' alt='Website'/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a  href = 'https://www.linkedin.com/in/beingbiplov/' >
    <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/linkedinicon.png' alt='LinkedIn'/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a  href = 'https://twitter.com/BeingBiplov' >
    <img  width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/twittericon.png' alt='Twitter'/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a  href = 'https://dev.to/biplov/' >
    <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/devicon.png' alt='Dev.to'/>
   </a>
