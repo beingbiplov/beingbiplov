@@ -4,7 +4,7 @@
 ### Hi there 👋
 I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Django and JavaScript. Curious about a lot of other languages and tools.
 
-<h3> Get in touch </h3>
+<h3 align='center'> Get in touch </h3>
 
 
 <div align='center'>  
@@ -12,10 +12,10 @@ I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Djang
     <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/mailicon.png' alt='email'/>
   </a>
   <a  href = 'https://biplovsharma.com.np/'>
-   <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/linkedinicon.png' alt='LinkedIn'/>
+   <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/interneticon.png' alt='Website'/>
   </a> 
   <a  href = 'https://www.linkedin.com/in/beingbiplov/' >
-   <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/interneticon.png' alt='Website'/>
+   <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/linkedinicon.png' alt='LinkedIn'/>
   </a> 
   <a  href = 'https://twitter.com/BeingBiplov' >
    <img  width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/twittericon.png' alt='Twitter'/>
