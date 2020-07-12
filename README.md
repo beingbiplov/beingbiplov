@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<img src='icons/biplov_header.png' />
+
+### Hi there 👋
+I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Django and JavaScript. Curious about a lot of other languages and tools.
 <!--
 **beingbiplov/beingbiplov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
