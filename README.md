@@ -1,8 +1,9 @@
 
-<img src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/biplov_header1.png' alt='Biplov'/>
+<!-- <img src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/biplov_header1.png' alt='Biplov'/> -->
 
 ### Hi there 👋
 I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Django and JavaScript. Curious about a lot of other languages and tools.
+
 
 <h3 align='center'> Get in touch </h3>
 
@@ -24,6 +25,11 @@ I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Djang
    <img width='30' height='30'  src='https://raw.githubusercontent.com/beingbiplov/beingbiplov/master/icons/devicon.png' alt='Dev.to'/>
   </a>
 </div>
+
+<br >
+<br >
+
+[![Biplov's github stats](https://github-readme-stats.vercel.app/api?username=beingbiplov&show_icons=true&count_private=true&theme=dark)](https://github.com/beingbiplov)
 
 
  
