@@ -29,8 +29,11 @@ I am Biplov from Kathmandu, Nepal. I build things for the web, mostly with Djang
 <br >
 <br >
 
-[![Biplov's github stats](https://github-readme-stats.vercel.app/api?username=beingbiplov&show_icons=true&count_private=true&theme=dark)](https://github.com/beingbiplov)
-
+<div align='center'> 
+  
+  [![Biplov's github stats](https://github-readme-stats.vercel.app/api?username=beingbiplov&show_icons=true&count_private=true&theme=dark)](https://github.com/beingbiplov)
+  
+</div>
 
  
   
